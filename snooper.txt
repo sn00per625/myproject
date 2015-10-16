@@ -1,7 +1,0 @@
-AS didn save edits
-i did an edit from command lineon laptop and pushed it to github, 2nd time now
-did: terryr@terryr-Satellite-P755:~/android-sdk-linux/tools$ 
-./android create project --target 1 --name MyFirstApp --path ~/myproject --package My.FirstApp --activity MyActivity
-and created base files for app from laptop console
-
-
