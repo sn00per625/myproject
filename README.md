@@ -1,6 +1,9 @@
 # myproject
-resetting up repo 
+new day 
+new project
+mintylify.com/treen
+9social
+setting up repos
 beginning stage
-
-
-am sitting outside and poundering
+documentation
+am sitting outside and pondering
